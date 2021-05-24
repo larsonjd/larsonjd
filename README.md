@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @larsonjd
+- 👋 Hi, I’m Joshua Larson (@larsonjd)
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
 
